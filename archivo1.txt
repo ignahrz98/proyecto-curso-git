@@ -1,1 +1,5 @@
-Este es un archivo para seguir el curso profesional de git
+Este es un archivo para seguir el curso profesional de git.
+
+Esta linea es una prueba.
+
+Tambien esta.
